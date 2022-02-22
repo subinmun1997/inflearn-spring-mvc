@@ -17,5 +17,5 @@
 
 | spring-mvc demo | 디렉토리 |
 |:---------------:|:--------:|
-| ✅ | 스프링 MVC 기본 기능 | (https://github.com/subinmun1997/inflearn-spring) |
+| ✅ | 스프링 MVC 기본 기능 | (https://github.com/subinmun1997/springmvc-demo) |
 
