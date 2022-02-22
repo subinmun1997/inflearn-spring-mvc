@@ -17,4 +17,4 @@
 
 | spring-mvc demo | 디렉토리 |
 |:---------------:|:--------:|
-| ✅ | test | [spring mvc](https://github.com/subinmun1997/springmvc-demo) |
+| test | [spring mvc](https://github.com/subinmun1997/springmvc-demo) |
