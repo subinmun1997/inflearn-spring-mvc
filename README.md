@@ -17,4 +17,4 @@
 
 | spring-mvc demo | 디렉토리 |
 |:---------------:|:--------:|
-| ✅ | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 | [spring mvc](https://github.com/subinmun1997/springmvc-demo) |
+| ✅ |  | [spring mvc](https://github.com/subinmun1997/springmvc-demo) |
