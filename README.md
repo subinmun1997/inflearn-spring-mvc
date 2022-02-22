@@ -13,3 +13,9 @@
 | ✅ | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 | [spring mvc](https://github.com/subinmun1997/inflearn-spring-mvc) |
 |  | 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 |  |
 |  | 스프링 핵심 원리 - 고급편 |  |
+
+
+| spring-mvc demo | 디렉토리 |
+|:---------------:|:--------:|
+| ✅ | 스프링 MVC 기본 기능 | (https://github.com/subinmun1997/inflearn-spring) |
+
